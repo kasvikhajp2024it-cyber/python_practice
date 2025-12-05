@@ -10,7 +10,7 @@ for i in num:
 if(sum==int(num)):
     print(num,"is an Armstrong number")
 else:
-    print(num,"is NOT an Armstrong number")
+    print(num,"is NOT an Armstrong")
 
 
 #Armstrong number using WHILE LOOP
