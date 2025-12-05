@@ -9,7 +9,7 @@ while num > 0:
     num //= 10
 
 if reverse == num:
-    print(num, "is a Palindrome")
+    print(num, "is a Palindrome number")
 else:
     print(num, "is NOT a Palindrome")
 
